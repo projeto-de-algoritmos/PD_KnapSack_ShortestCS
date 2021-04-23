@@ -1,38 +1,28 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Tema:
+ - PD   
+# KnapSack_ShortestCS
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 14<br>
+**Conteúdo da Disciplina**: PD<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 18/0012002  |  Álvaro Henrique de Sousa Gouvea |
+| 18/0011308  |  Peniel Etèmana Désirez-Jésus Zannoukou |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
-
+Após pensar sobre o tema,tivemos a idea de resolver o problema de mochila fazendo uso
+da programação dinâmica. Também achamos bom resolver o problema Shortest common supersequence.
+Para entender melhor do que se tratar esse problema de Shortest common supersequence,visite o link abaixo:
+<https://en.wikipedia.org/wiki/Shortest_common_supersequence_problem>
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
+**Linguagem**: C++<br>
 **Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+Ter o compilador g++ instalado na sua máquina(notebook ou computador).
 
 ## Uso 
 Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
