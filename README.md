@@ -25,7 +25,11 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 Ter o compilador g++ instalado na sua máquina(notebook ou computador).
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+
+Clona o repositorio depois ir até a pasta onde se encontrar os arquivos,em seguida execute:
+-  g++ -o knapsackBottomUp knapsackBottomUp.cpp
+- ./knapsackBottomUp
+
 
 
 
