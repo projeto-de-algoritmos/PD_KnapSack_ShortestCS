@@ -1,6 +1,6 @@
-# Tema:
- - PD   
+
 # KnapSack_ShortestCS
+
 
 **Número da Lista**: 14<br>
 **Conteúdo da Disciplina**: PD<br>
