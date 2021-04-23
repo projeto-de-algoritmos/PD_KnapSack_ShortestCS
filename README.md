@@ -30,6 +30,10 @@ Clona o repositorio depois ir até a pasta onde se encontrar os arquivos,em segu
 -  g++ -o knapsackBottomUp knapsackBottomUp.cpp
 - ./knapsackBottomUp
 
+Para executar o shortest common:
+- g++ -o shortest SCS.cpp
+- ./shortest
+
 
 
 
