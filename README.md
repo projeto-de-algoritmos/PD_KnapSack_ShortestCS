@@ -21,14 +21,12 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
 **Linguagem**: C++<br>
-**Framework**: (caso exista)<br>
+
 Ter o compilador g++ instalado na sua máquina(notebook ou computador).
 
 ## Uso 
 Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
 
 
 
