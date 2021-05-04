@@ -56,6 +56,7 @@ void lcs()
 int main()
 {
     //Termina o trabalho com um  EOF.
+    printf("Informe as duas strings (use o espaço para separa-las):\n:");
     while(scanf("%s %s", s1, s2) == 2)
     {
         v.clear();

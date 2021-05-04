@@ -54,7 +54,6 @@ int main()
         }
         // Total de itens e peso.
         printf("%d %d\n", re, answer);
-
     }
     return 0;
 }
